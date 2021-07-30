@@ -1,4 +1,4 @@
-### About
+# About
 - 👋 Hi, I’m Andre
 - 👀 I’m interested in any sort of software development or Game Design
 
