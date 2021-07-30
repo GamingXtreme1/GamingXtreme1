@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @GamingXtreme1
-- 👀 I’m interested in any sort of software development or digital art
+- 👋 Hi, I’m Andre
+- 👀 I’m interested in any sort of software development / Game Design
+- Website : https://www.xtremestudios.org/
+- 2021 Goals: Master C++ STL , Become comfortable with Vulkan API , Learn UE5
 - 🌱 I’m currently learning Vulkan API
 - 💞️ I’m looking to collaborate on any real time rendering projects
 - 📫 How to reach me: ahloubser12@gmail.com
