@@ -8,9 +8,9 @@
 
 ### My Links
 - 🔥 [Website](https://www.xtremestudios.org/)
-- 📫 [Email](ahloubser12@gmail.com)
 - [LinkedIn](www.linkedin.com/in/andre-loubser)
 - [Behance](https://www.behance.net/gamingxtreme)
+- - 📫 Email: ahloubser12@gmail.com
 
 <!---
 GamingXtreme1/GamingXtreme1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
