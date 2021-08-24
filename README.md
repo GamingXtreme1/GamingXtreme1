@@ -1,9 +1,9 @@
 # About
 - 👋 Hi, I’m Andre
-- 👀 I’m interested in any sort of software development or Game Design
+- 👀 I’m interested in any sort of Software or Game development!
 
 - 🥅 2021 Goals: Master C++ STL , Become comfortable with Vulkan API , Learn UE5
-- 📚 I’m currently learning Vulkan API
+- 📚 I’m currently learning Vulkan API and working on my website
 - 💞️ I’m looking to collaborate on any real time rendering projects
 
 ### My Links
