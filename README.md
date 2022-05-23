@@ -1,10 +1,11 @@
 # About
 - 👋 Hi, I’m Andre
-- 👀 I’m interested in any sort of Software or Game development!
+- 👀 I’m interested in any sort of Software and Game development!
 
 - 🥅 2021 Goals: Master C++ STL , Become comfortable with Vulkan API , Learn UE5
 - 📚 I’m currently learning Vulkan API and working on my website
-- 💞️ I’m looking to collaborate on any real time rendering projects
+
+- 🥅 2022 Goals: Master Full Stack Web Development with Angular and Nestjs, docker, Redis, MySQL
 
 ### My Links
 - 🔥 [Website](https://www.xtremestudios.org/)
